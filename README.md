@@ -9,6 +9,18 @@
   <a href="https://github.com/moaz1511" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/material-outlined/32/000000/github.png" alt="GitHub"/>
   </a>
+  <a href="https://www.facebook.com/Moaz1511/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/32/000000/facebook.png" alt="Facebook"/>
+  </a>
+  <a href="https://x.com/moaz_1511" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/32/000000/twitter.png" alt="Twitter"/>
+  </a>
+  <a href="https://www.instagram.com/moaz1511" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/32/000000/instagram-new.png" alt="Instagram"/>
+  </a>
+  <a href="https://www.youtube.com/@moaz7142" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/32/000000/youtube-play.png" alt="YouTube"/>
+  </a>
 </div>
 
 ---
@@ -46,12 +58,29 @@ A CSE Professional specializing in workflow automation and technical operations.
   ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 - **Concepts & Methodologies**: 
+  ![Problem Solving](https://img.shields.io/badge/Problem_Solving-0078D4?style=for-the-badge)
   ![Web Scraping](https://img.shields.io/badge/Web_Scraping-666666?style=for-the-badge)
   ![Process Automation](https://img.shields.io/badge/Process_Automation-336699?style=for-the-badge)
   ![Agile](https://img.shields.io/badge/Agile-D9534F?style=for-the-badge)
   ![SDLC](https://img.shields.io/badge/SDLC-5BC0DE?style=for-the-badge)
   ![QA](https://img.shields.io/badge/QA-5CB85C?style=for-the-badge)
   ![AI & ML](https://img.shields.io/badge/AI_&_ML-F0AD4E?style=for-the-badge)
+  ![System Bottleneck Analysis](https://img.shields.io/badge/System_Bottleneck_Analysis-A020F0?style=for-the-badge)
+  ![Automated Reporting](https://img.shields.io/badge/Automated_Reporting-008080?style=for-the-badge)
+
+## 🎓 Education
+- **B.Sc. in Computer Science & Engineering**
+  - Independent University, Bangladesh
+  - *Jan 2022 - Apr 2026*
+
+## ⭐ Interests
+- Problem Solving
+- Automation & Process Optimization
+- 3D Visualization & VFX
+- Open Source Contribution
+- Technology & Gadgets
+- Traveling
+- History
 
 ## 📈 GitHub Stats & Trophies
 
@@ -68,6 +97,7 @@ A CSE Professional specializing in workflow automation and technical operations.
 - **Bangla**: Native
 - **English**: Proficient
 - **Hindi/Urdu**: Advanced
+- **Arabic**: Intermediate
 - **Chinese (Mandarin)**: Intermediate
 
 ---
