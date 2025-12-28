@@ -9,6 +9,9 @@
   <a href="https://github.com/moaz1511" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/material-outlined/32/000000/github.png" alt="GitHub"/>
   </a>
+  <a href="https://moaz.infinityfreeapp.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/32/000000/website--v1.png" alt="Portfolio"/>
+  </a>
   <a href="https://www.facebook.com/Moaz1511/" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/32/000000/facebook.png" alt="Facebook"/>
   </a>
@@ -29,7 +32,7 @@
 A CSE Professional specializing in workflow automation and technical operations. I am an expert at bridging the gap between content production and software engineering by developing custom tools for document processing, data conversion, and system integration. I have a proven track record in managing technical teams and optimizing digital asset pipelines for large-scale educational platforms.
 
 ## 💡 Skills
-- **Programming Languages**: 
+- 💻 **Programming Languages**: 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -37,12 +40,12 @@ A CSE Professional specializing in workflow automation and technical operations.
   ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
   ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftaccess&logoColor=white)
 
-- **Frameworks & Libraries**: 
+- 📚 **Frameworks & Libraries**: 
   ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-- **Tools & Platforms**: 
+- 🛠️ **Tools & Platforms**: 
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -51,13 +54,13 @@ A CSE Professional specializing in workflow automation and technical operations.
   ![Microsoft SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
   ![Google Suite](https://img.shields.io/badge/Google_Suite-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-- **Design & 3D**:
+- 🎨 **Design & 3D**:
   ![UI/UX Design](https://img.shields.io/badge/UI/UX_Design-FF7C00?style=for-the-badge&logo=figma&logoColor=white)
   ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
   ![Cinema 4D](https://img.shields.io/badge/Cinema_4D-000000?style=for-the-badge&logo=cinema4d&logoColor=white)
   ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-- **Concepts & Methodologies**: 
+- 🧠 **Concepts & Methodologies**: 
   ![Problem Solving](https://img.shields.io/badge/Problem_Solving-0078D4?style=for-the-badge)
   ![Web Scraping](https://img.shields.io/badge/Web_Scraping-666666?style=for-the-badge)
   ![Process Automation](https://img.shields.io/badge/Process_Automation-336699?style=for-the-badge)
@@ -73,7 +76,7 @@ A CSE Professional specializing in workflow automation and technical operations.
   - Independent University, Bangladesh
   - *Jan 2022 - Apr 2026*
 
-## ⭐ Interests
+## 🎯 Interests
 - Problem Solving
 - Automation & Process Optimization
 - 3D Visualization & VFX
