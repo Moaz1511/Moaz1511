@@ -10,7 +10,7 @@
     <img src="https://img.icons8.com/material-outlined/32/000000/github.png" alt="GitHub"/>
   </a>
   <a href="https://moaz.infinityfreeapp.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/dusk/64/resume.png" alt="Portfolio"/>
+    <img src="https://img.icons8.com/dusk/32/resume.png" alt="Portfolio"/>
   </a>
   <a href="https://www.facebook.com/Moaz1511/" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/32/000000/facebook.png" alt="Facebook"/>
