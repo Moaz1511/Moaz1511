@@ -103,6 +103,9 @@ A CSE Professional specializing in workflow automation and technical operations.
 ---
 
 <div align="center">
+<a href="https://wakatime.com/@d9fcc261-52b6-4ad4-9254-4e3f43c2d17e">
+  <img src="https://wakatime.com/badge/user/d9fcc261-52b6-4ad4-9254-4e3f43c2d17e.svg" alt="Total time coded" />
+</a>
 <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=moaz1511&label=Profile%20Views&color=6&pretty=true" alt="Profile Views" />
 </a>
